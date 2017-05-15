@@ -1,0 +1,31 @@
+{
+  "name": "sudo-fs-promise",
+  "version": "1.0.0",
+  "description": "Promise wrapper for @mh-cbon/sudo-fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wormss/sudo-fs-promise.git"
+  },
+  "keywords": [
+    "fs",
+    "sudo",
+    "promise"
+  ],
+  "author": {
+    "name": "Colin Richardson",
+    "url": "https://github.com/WORMSS",
+    "email": "wormssmail@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wormss/sudo-fs-promise/issues"
+  },
+  "homepage": "https://github.com/wormss/sudo-fs-promise#readme",
+  "dependencies": {
+    "@mh-cbon/sudo-fs": "^1.0.17"
+  }
+}
