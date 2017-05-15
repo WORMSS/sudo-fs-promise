@@ -1,6 +1,6 @@
 # sudo-fs-promise
 
-Simple promise wrapper for (@mh-cbon/sudo-fs)[https://npmjs.org/package/@mh-cbon/sudo-fs] . Currently 1.0.17.
+Simple promise wrapper for [@mh-cbon/sudo-fs](https://npmjs.org/package/@mh-cbon/sudo-fs) . Currently 1.0.17.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
