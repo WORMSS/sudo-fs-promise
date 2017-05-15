@@ -19,7 +19,6 @@ $ npm install sudo-fs-promise --save
 
 ```js
 var fs = require("sudo-fs-promise");
-var fPath = "./someFile";
 
 fs.readFile("./someFile")
 .then(data => { console.log("data:", data); })
